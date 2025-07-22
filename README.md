@@ -28,8 +28,8 @@ Revenue vs. Rating patterns using SQL filters and grouping
 
 | File | Description |
 |------|-------------|
-| `Project_1_SQL_Query_IMDB_Dataset_Analysis.ipynb` | Jupyter Notebook with all SQL queries and output |
-| `movies.sqlite` *(not included in repo)* | SQLite database used for querying |
+| `SQL_Query_IMDB_Dataset_Analysis.ipynb` | Jupyter Notebook with all SQL queries and output |
+| `movies.sqlite` ([URL](https://www.kaggle.com/datasets/h4leema/imdb-datase)) | SQLite database used for querying |
 
 >  You’ll need to upload `movies.sqlite` manually in Colab to run the notebook.
 
@@ -64,8 +64,6 @@ This project blends **data engineering (SQL)** with **data processing (Python)**
 
 ## Let's Connect
 
-If you liked this project or want to collaborate, feel free to [connect on LinkedIn](https://www.linkedin.com/) or explore more on my [GitHub profile](https://github.com/tejaswinimandarapu).
+If you liked this project or want to collaborate, feel free to [connect on LinkedIn](https://www.linkedin.com/in/tejaswini-mandarapu-86aa65258/) or explore more on my [GitHub profile](https://github.com/tejaswinimandarapu).
 
 ---
-
-*Created with using Google Colab*
